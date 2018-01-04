@@ -9,6 +9,7 @@
 
 	<url>http://maven.apache.org</url>
 	<build>
+		<sourceDirectory>src</sourceDirectory>
 		<plugins>
 			<plugin>
 				<artifactId>maven-war-plugin</artifactId>
